@@ -1,13 +1,13 @@
 import Header from './Components/Header'
-import Content from './Components/Content'
+import Text from './Components/Text'
+import Summary from './Components/Summary'
 
 function App() {
   return (
     <div className="">
       <Header/>
-      <div><Content/></div>
-      <div><Content/></div>
-      <div><Content/></div>
+      <Text/>
+      <Summary/>
     </div>
   );
 }
