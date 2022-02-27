@@ -25,7 +25,7 @@ const Summary = () => {
   return (
     <div className="flex flex-col items-center justify-center">
         <SummaryItem num="1" title="Die Gigantomachie" text={Gigantomachie} img={GigantomachieImg}/>
-        <SummaryItem num="2" title="Die Giganten bei Ovif" text={Ovid} img={OvidImg}/>
+        <SummaryItem num="2" title="Die Giganten bei Ovid" text={Ovid} img={OvidImg}/>
         <SummaryItem num="3"/>
     </div>
   )
