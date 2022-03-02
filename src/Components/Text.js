@@ -29,7 +29,7 @@ const Text = () => {
           mit einem Blitzstrahl den Olymp und schlug den Pelion von dem darunterliegenden Ossa. Als die ungeschlachten 
           Leiber von ihrem eigenen Bauwerk erdrückt dalagen, soll die Erde von dem reichlich strömenden Blut ihrer Söhne 
           feucht geworden sein und das warme Blut beseelt und in Menschengestalt verwandelt haben, damit an ihre
-          Nachkommenschaft eine Erinnerung bleibe. [160] Aber auch diese Brut verachtete die Himmlischen, lechzte nach 
+          Nachkommenschaft eine Erinnerung bleibe. Aber auch diese Brut verachtete die Himmlischen, lechzte nach 
           grausamem Mord und war gewalttätig: Sie war ja auch aus Blut geboren.
 
           </div>
