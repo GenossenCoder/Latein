@@ -24,10 +24,14 @@ const Text = () => {
         <div className="m-6 group flex items-center justify-center flex-col basis-1/2 bg-emerald-400/50 rounded-md">
           <button className="group bg-sky-600 p-2 rounded-md mt-5">Übersetzung</button>
           <div className=" scale-0 group-hover:scale-100 transition-all duration-500 break-words p-3">
-          Man berichtet, Giganten haben nach dem himmlischen Reich gestrebt und hohe zusammengesuchte Berge bis zu den Sternen aufgetürmt. Damit auch der Äther hoch oben nicht ohne Sorgen sei.
-          Damals zerschmetterte der allmächtige Vater den Olymp mit einem geschleuderten Blitz und warf den Pelion vom darunterliegenden Ossa (Pelion und Ossa: Berge in Thessalien in der Nähe des Olymp).
-          Verschüttet von ihrem Bauwerk lagen die gräßlichen Leiber; es heißt, Mutter Erde sei, vom vielen Blut ihrer Kinder durchtränkt, nass geworden. Sie habe dann das noch warme Blut mit Leben erfüllt und es in die Gestalt von Menschen umgewandelt, damit das Andenken an ihre Nachkommenschaft nicht völlig unterginge. Aber auch jene Brut verachtete die Himmlischen,
-          lechzte nach brutalem Mord und war gewalttätig; schließlich war sie aus Blut hervorgegangen.
+          Und damit der hohe Äther nicht sorgloser sei als die Erde, sollen die Giganten, voll Gier nach der Herrschaft im Himmel, 
+          Berge zusammengetragen und bis an die Sterne empor getürmt haben. Da zerschmetterte der allmächtige Vater 
+          mit einem Blitzstrahl den Olymp und schlug den Pelion von dem darunterliegenden Ossa. Als die ungeschlachten 
+          Leiber von ihrem eigenen Bauwerk erdrückt dalagen, soll die Erde von dem reichlich strömenden Blut ihrer Söhne 
+          feucht geworden sein und das warme Blut beseelt und in Menschengestalt verwandelt haben, damit an ihre
+          Nachkommenschaft eine Erinnerung bleibe. [160] Aber auch diese Brut verachtete die Himmlischen, lechzte nach 
+          grausamem Mord und war gewalttätig: Sie war ja auch aus Blut geboren.
+
           </div>
         </div>
       </div>
