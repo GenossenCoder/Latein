@@ -6,16 +6,16 @@ import GeschichteImg from '../Images/Geschichte.jpg'
 
 const Geschichte = `
 Die Gigantomachie bzw. die Geschichte der Giganten wird besonders in der Kunst immer wieder aufgegriffen.
-So lassen sich schon ab dem Mittelalter Kunstwerke finden, die diese Metamorphose als Motiv für Gemälde verwenden. Im Mittelalter
-wurden die Giganten aber als übergroße Menschen dargestellt während sie in der Mythologie als Mischwesen zwischen Schlange
-und Mensch beschrieben wurden
+So lassen sich schon im Mittelalter Kunstwerke finden, die diese Metamorphose als Motiv für Gemälde verwenden. Im Mittelalter
+wurden die Giganten aber als übergroße Menschen dargestellt, während sie in der Mythologie als Mischwesen zwischen Schlange
+und Mensch beschrieben wurden.
 
 `
 const Gigantomachie = `
 Die Gigantomachie beschreibt den Kampf der Götter des Olymps gegen die Giganten.
-Als Reaktion auf den Sieg der Götter über die Titanen beauftragte Gaia ihre Kinder,
-die Giganten, die olympischen Götter zu stürzen.
-Als dann die Giganten gegen die olympischen Götter kämpften nahm der Kampf eine unerwartete Wendung.
+Als Reaktion auf den Sieg der Götter über die Titanen, beauftragte Gaia ihre Kinder (die Giganten),
+die olympischen Götter zu stürzen.
+Als die Giganten gegen die olympischen Götter kämpften nahm der Kampf eine unerwartete Wendung.
 Jedes Mal, wenn ein Gigant zu Boden ging, stand er mit neuer Kraft wieder auf.
 Schließlich befragten die Götter ein Orakel, welches ihnen voraussagte, dass die Giganten nur mit Hilfe der
 Sterblichen besiegt werden können. So gelang es den Göttern schließlich mit Hilfe von Herkules und Dionysos die Giganten
